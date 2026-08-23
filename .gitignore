@@ -1,0 +1,87 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity and IDE files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.idea/
+.vscode/
+.vs/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Datasets and training outputs
+dataset/
+datasets/
+runs/
+weights/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Large media and archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.mp4
+*.mov
+*.avi
+
+# Local configuration and secrets
+.env
+.env.*
+*.pem
+*.p12
+*.mobileprovision
+
+# Logs and temporary files
+*.log
+*.cache
+*.bak
+*.swp
+*~
